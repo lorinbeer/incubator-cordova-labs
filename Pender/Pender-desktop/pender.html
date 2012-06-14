@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Pender-desktop</title>
+
+    <script type="text/javascript" src="penderdesktop.js"></script>
+
+    <!-- Point to demo project here -->
+    <script type="text/javascript" src="demos/client/penderdemo.js"></script>
+
+  </head>
+  
+  <body>
+
+    <!-- Set desired canvas coordinates -->
+    <canvas id="pendercanvas" width="800" height="800"></canvas>
+
+    <script>
+
+        <!-- initialize Pender, providing the id of the native canvas element you wish to draw to -->
+        Pender.init("pendercanvas");
+
+	<!-- initialize demo, should register demo draw function with Pender -->
+	init();
+
+    </script>
+  
+  </body>
+
+</html>
