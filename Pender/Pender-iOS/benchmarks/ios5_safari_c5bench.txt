@@ -1,0 +1,25 @@
+Canvas Benchmark Results for iOS 5.1 Safari on iTouch (4)
+--------------------
+Timer=0.0 ms / 243274.8 fps
+clearRect=0.1 ms / 16672.7 fps
+drawImage 8bit=0.1 ms / 14959.8 fps
+drawImage 8bit transparent=0.1 ms / 16351.3 fps
+drawImage 24bit=0.1 ms / 16476.3 fps
+drawImage 24bit random=0.1 ms / 15335.3 fps
+drawImage 24bit alpha=0.1 ms / 16745.6 fps
+drawImage 24bit single sprite=0.1 ms / 13162.4 fps
+drawImageSlice 24bit sprite=0.1 ms / 12111.4 fps
+drawImageSlice 24bit sprite+background=0.3 ms / 3183.8 fps
+drawImageSlice 24bit 8xsprite+background=0.9 ms / 1068.0 fps
+Timer=5.5 ms / 183.5 fps
+clearRect=7.4 ms / 136.0 fps
+drawImage 8bit=7.0 ms / 143.8 fps
+drawImage 8bit transparent=6.7 ms / 149.4 fps
+drawImage 24bit=6.3 ms / 159.6 fps
+drawImage 24bit random=6.2 ms / 162.1 fps
+drawImage 24bit alpha=6.7 ms / 149.4 fps
+drawImage 24bit single sprite=5.0 ms / 199.8 fps
+drawImageSlice 24bit sprite=5.1 ms / 196.1 fps
+drawImageSlice 24bit sprite+background=6.7 ms / 149.0 fps
+drawImageSlice 24bit 8xsprite+background=7.6 ms / 131.9 fps
+Score: 1761

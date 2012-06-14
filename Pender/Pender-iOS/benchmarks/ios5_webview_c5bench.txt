@@ -1,0 +1,25 @@
+Canvas Benchmark Results for iOS 5.1 WebView on iTouch (4)
+--------------------
+Timer=0.0 ms / 212955.7 fps
+clearRect=0.1 ms / 15279.1 fps
+drawImage 8bit=0.1 ms / 13146.6 fps
+drawImage 8bit transparent=0.1 ms / 14188.0 fps
+drawImage 24bit=0.1 ms / 13304.3 fps
+drawImage 24bit random=0.1 ms / 13151.8 fps
+drawImage 24bit alpha=0.1 ms / 14360.6 fps
+drawImage 24bit single sprite=0.1 ms / 12007.5 fps
+drawImageSlice 24bit sprite=0.1 ms / 11301.9 fps
+drawImageSlice 24bit sprite+background=0.2 ms / 4400.7 fps
+drawImageSlice 24bit 8xsprite+background=0.8 ms / 1236.1 fps
+Timer=4.7 ms / 211.4 fps
+clearRect=10.0 ms / 100.0 fps
+drawImage 8bit=9.5 ms / 104.8 fps
+drawImage 8bit transparent=9.8 ms / 102.0 fps
+drawImage 24bit=8.9 ms / 112.5 fps
+drawImage 24bit random=8.9 ms / 112.4 fps
+drawImage 24bit alpha=9.4 ms / 106.0 fps
+drawImage 24bit single sprite=5.8 ms / 172.0 fps
+drawImageSlice 24bit sprite=6.0 ms / 166.9 fps
+drawImageSlice 24bit sprite+background=9.0 ms / 110.8 fps
+drawImageSlice 24bit 8xsprite+background=9.5 ms / 104.8 fps
+Score: 1404
